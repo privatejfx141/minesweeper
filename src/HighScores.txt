@@ -1,0 +1,7 @@
+Anonymous, 0, 260
+Bnonymous, 0, 60
+Seenonymous, 1, 100
+Deenonay, 1, 500
+Frick, 1, 653
+TestSib, 2, 432
+Hick, 2, 896
